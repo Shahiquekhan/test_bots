@@ -1,0 +1,12 @@
+{
+"data":{
+  "originIata":"IAD",
+  "originIataType": "AIRPORT",
+  "DestinationIata":"CAG",
+  "DestinationIataType": "AIRPORT",
+  "Adults": "2",
+  "CabinClass": "ECONOMY",
+  "DepartureDate":"2024-08-10",
+  "browser":"firefox"
+}
+}
